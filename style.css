@@ -1,0 +1,52 @@
+@import url(//fonts.googleapis.com/css?family=Raleway:400,700,200);
+@import url(//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css);
+body {
+    font-family: Raleway, sans-serif;
+}
+
+ul,
+li {
+    list-style-type: none;
+}
+
+ul li {
+    margin: 5px;
+}
+
+footer {
+    font-weight: 200;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+footer,
+footer a {
+    color: #777;
+}
+
+img#burrito-img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+header {
+    text-align: center;
+}
+
+li a {
+    color: #000;
+}
+
+.summary {
+    color: #999;
+    margin-bottom: 10px;
+}
+
+#loading {
+    text-align: center;
+    margin-bottom: 50px;
+}
